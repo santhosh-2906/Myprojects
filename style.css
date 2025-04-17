@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.one{
+    background-color: black;
+    color: green;
+    padding: 25px;
+}
+li,ul,h1{display: inline-block;}
+ul{margin-left: 60%;}
+h1:hover{color: grey;}
+li:hover{color: red; cursor: pointer;}
+input{width: 60%; padding: 10px; text-align: center; border-style: solid;}
+.two{
+    margin-top: 2%;
+}
+
+.box{
+    width: 220px;
+    display: inline-block;
+    border-style: solid;
+    padding: 30px;
+    margin-top: 2%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.box:hover{color: blueviolet;}
+
+.three{text-align: center;}
+.four{text-align: center; padding: 20px;}
+.five{text-align: center;
+background-color: black;
+color: aqua;
+padding: 30px;
+p{margin-top: 4%;}
+}
+
